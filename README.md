@@ -18,6 +18,6 @@ Dokładny opis projektu znajduje się w pliku 'Sprawozdanie.docx'
 
 Wizualizacja korzysta z tekstur także są one potrzebne do poprawnego działania programu, przykładowe tekstury zostały załączone w pliku textures.zip 
 
-### Projekt powstał we współpracy z Piotr Winkler - https://github.com/piotrwinkler
+### Projekt powstał we współpracy z Bartosz Bieliński - https://github.com/Kecz
 
 **Data wykonania:** maj 2018
